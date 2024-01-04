@@ -1,6 +1,6 @@
 // Program to convert Celsius to Farhenheit
 
-let f = promt('Enter a temperature in farhenheit to convert to celsius')
+let f = prompt('Enter a temperature in farhenheit to convert to celsius')
 
 // convert C to F function  
 function convertToCelsius(f) {
